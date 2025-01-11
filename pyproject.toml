@@ -12,5 +12,6 @@ dependencies = [
     "pandas>=2.2.3",
     "requests>=2.32.3",
     "scikit-learn>=1.6.0",
+    "tensorboard-plugin-profile>=2.18.0",
     "tensorflow>=2.18.0",
 ]
