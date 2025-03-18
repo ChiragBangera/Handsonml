@@ -1,3 +1,6 @@
 *.pkl
 chapter_8/my_mnist.mmap
 *.keras
+
+*datasets
+
